@@ -68,6 +68,11 @@ This list contains hyperspectral datasets that have annotations for the data.
     - Spectral Range: 380-1050 nm
     - Classes: 16
     - Published: 2013
+- [UAV-HSI-Crop-Dataset](https://www.scidb.cn/en/detail?dataSetId=6de15e4ec9b74dacab12e29cb557f041)
+    - Resolution: 96x96x200
+    - Spectral Range: 385-1023 nm
+        - Pika L by Resonon
+    - Published 29 June 2022
 
 ## Urban and Off-Road
 
